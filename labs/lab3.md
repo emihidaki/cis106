@@ -4,23 +4,24 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 ## Question 1
 1. Which command did you use to search for the themes and to install them?
    
- to search: apt search 'gkt theme'
- to install: sudo apt install (insert theme name)
+ - to search: apt search 'gkt theme'
+ - to install: sudo apt install (insert theme name)
 
 2. Which commands did you use to find and install the web browser?
 
 to search: apt search 'web browser'
-to install: sudo apt install (firefox)
+to install: sudo apt install (name of the browser)
 
 3.1 What is the name of the package?
 
 - mythbrowser
 
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
-
+![Question1](../images/lab3Q1.png)
+![Question1sc2](../images/ab3Q1p2.png)
 3.3 How much disk space will the package utilize after installation?
  
- 476MB
+ - 476MB
 
 ## Question 2
 ![Question2](../images/lab3question2.png)

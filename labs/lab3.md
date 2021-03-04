@@ -23,9 +23,14 @@ to install: sudo apt install (firefox)
  476MB
 
 ## Question 2
-![]
-## Question 3
-
+![Question2](../images/lab3question2.png)
+## Question 3git
+![Question3](../images/lab3Q4.png)
 ## Question 4
-
+![Question4](../images/lab3Q4part2.png)
+![Question4.1](../images/lab3Q4part3.png)
+![Question4.2](../images/lab3Q4part4.png)
+![Question4.3](../images/lab3Q4part5.png)
 ## Question 5
+![Question5](../images/lab3Q5part1.png)
+![Question5.1](../images/lab3Q5part2.png)

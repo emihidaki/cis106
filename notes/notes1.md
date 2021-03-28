@@ -19,7 +19,7 @@
 * CompTia Linux+ Study Guide by  Christine Bresnahan
 * The Linux Command Line by William Shotts
   
-#Linux Distributions
+# Linux Distributions
 ![linux distributions](../images/notes1-linuxdis.png)
 
 * There are a large number of Linux distributions.

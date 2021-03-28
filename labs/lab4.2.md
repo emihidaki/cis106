@@ -17,4 +17,4 @@
 
 ![Question4](../images/lab4.2Q4P1.png)
 ![Question4.1](../images/lab4.2Q4P2.png)
-![Question4.2](../images/lab4.2Q4P3.png)
+![Question4.2](../images/lab4.2Q4P3.png)git

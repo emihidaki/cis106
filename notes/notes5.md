@@ -14,7 +14,7 @@ VIM is a command-line text editor which is included in all POSIX compliant opera
 ### How to use VIM | Shortcuts and commands to know
 ![vim](../images/notes/notes5-vim.png)
 
-**Saving a Quitting VIM**
+**Saving and Quitting VIM**
 ![save vim](../images/notes/notes5-save%20in%20vim.png)
 
 **Delete text and copy and past**

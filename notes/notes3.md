@@ -28,12 +28,31 @@ There are two Environments: The DE and the CLI and also there are plenthora of g
   1. Terminal Emulator
   2. Linux Console
 ### The Bash Shell:
-* The GNU bash shell is a program thta provides interactive access to linux system
+* The GNU bash shell is a program that provides interactive access to linux system
 * Most Linux distributions use the bash shell as the default shell. However, other shells exist
 
 ![Bash Shortcuts](../images/notes3-bashshortcuts.png)
 ![Bash Shortcuts 2](../images/notes3-bashshortcuts2.png)
+![Bash shortcuts coomands](../images/notes/bashcommands.png)
 
+#### Other Commands to try
+- date: displays the current time and date
+- cal: displays a calendar of the current month
+- df: displays the current amount of free space on our disk drives
+- free: displays information about your system
+- uname: displays information about your system
+- clear: clears the screen
+  
 ## Managing Software
 
 ## The Linux Filesystem
+
+### Commands 
+![commands 1](../images/notes/notes3-file-system.png)
+
+### Bash Features
+![bash features](../images/notes/notes3-bashfeatures.png)
+
+### ls command
+cleat sheet
+![ls command](../images/notes/notes3-lscommandchatsheet.png)

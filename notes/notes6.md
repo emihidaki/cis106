@@ -1,4 +1,4 @@
-# Notes Lecture 4 | Managing Data and File permissions
+# Notes Lecture 6 | Managing Data and File permissions
 
 ## Managing Data
 

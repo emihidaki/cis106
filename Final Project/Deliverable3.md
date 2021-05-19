@@ -44,7 +44,8 @@
 
 ## Introduction
 
-This manual will be installation and configuation of a Virtual machine
+This manual will be installation and configuation of a Virtual machine. The objective in this project is to guide the user step by step to install the virtual machine and install ubuntu. Also the manual has installation advice for some applications that might be useful for a day to day use of the linux computer. I hope this will be helpful for people that are beginner in this field.
+The applications that are include in the manual are; Zoom, Discord, Google Chrome, etc
 
 ## Hardware Requirements
  * PC with 8GB of Ram or more
@@ -214,5 +215,20 @@ command: `libreoffice --version`
 
 
 ## Ubuntu TroubleShooting
+1. Using online help: By clicking on the question mark icon in the main menu bar it will bring Ubuntu's extensive collection of formatted help.
+2. Use the Man Command: On the command line you can insert `--help` after the command and it will appear all the functions of the command
+3. Search on the web: There are a lot of resources in forums, youtube videos and documentation
+4. Always ask for help: There are many ways to ask for help in the web.
 
 ## Work Cited
+Awaisi, Kamran Sattar. “Install LibreOffice on Ubuntu 20.04 and Linux Mint 20.” Linux Hint, 1 Oct. 1969, linuxhint.com/install-libreoffice-ubuntu-linux-mint/. 
+
+“CIS 106: Linux Commands.” Home, robertalberto.com/linuxcommands/home.html. 
+
+“How to Install Ubuntu in a Virtual Machine.” YouTube, YouTube, 2 Feb. 2021, www.youtube.com/watch?v=2MEN_IX8gJ8. 
+
+“How to Install Zoom and Discord in Ubuntu 18.04.” YouTube, YouTube, 1 Apr. 2020, www.youtube.com/watch?v=uk1aFIzj7YM. 
+
+Linuxize. “How to Install Google Chrome Web Browser on Ubuntu 20.04.” Linuxize, Linuxize, 24 Apr. 2020, linuxize.com/post/how-to-install-google-chrome-web-browser-on-ubuntu-20-04/. 
+
+Linuxize. “How to Install TeamViewer on Ubuntu 20.04.” Linuxize, Linuxize, 27 June 2020, linuxize.com/post/how-to-install-teamviewer-on-ubuntu-20-04/. 

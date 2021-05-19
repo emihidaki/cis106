@@ -1,4 +1,8 @@
-# Ubuntu Intalliation Handbook Dor Dummies
+# Ubuntu Installation Handbook Dor Dummies
+
+
+## Table of Content
+<!-- TOC -->autoauto- [Ubuntu Installation Handbook Dor Dummies](#ubuntu-installation-handbook-dor-dummies)auto    - [Table of Content](#table-of-content)auto    - [Introduction](#introduction)auto    - [Hardware Requirements](#hardware-requirements)auto    - [Software Specifications "Ubuntu 20.04"](#software-specifications-ubuntu-2004)auto    - [Set up of the VM Environment](#set-up-of-the-vm-environment)auto    - [Setting Virtual Box](#setting-virtual-box)auto    - [Basic Commands](#basic-commands)auto    - [Installing Google Chrome](#installing-google-chrome)auto    - [Install Team Viewer](#install-team-viewer)auto    - [Installing Libre Office](#installing-libre-office)auto    - [Installing Discord](#installing-discord)auto    - [Installing Zoom](#installing-zoom)auto    - [Ubuntu TroubleShooting](#ubuntu-troubleshooting)auto    - [Work Cited](#work-cited)autoauto<!-- /TOC -->
 
 ## Introduction
 
@@ -169,8 +173,8 @@ command: `libreoffice --version`
   `sudo apt install ./zoom_amd64.deb`
   and it will ask the password, insert the password and press `y` to install
   ![zoom](Final%20Project%20img/install-zoom.png)
-## Installing Paython
 
-## Installing Epic Games and Emulator
 
 ## Ubuntu TroubleShooting
+
+## Work Cited

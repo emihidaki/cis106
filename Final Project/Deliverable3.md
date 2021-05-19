@@ -1,4 +1,4 @@
-# Ubuntu Installation Handbook Dor Dummies
+# Ubuntu Installation Handbook 
 
 
 ## Table of Content

@@ -1,7 +1,6 @@
 <!-- TOC -->
 
 - [Ubuntu Installation Handbook Dor Dummies](#ubuntu-installation-handbook-dor-dummies)
-    - [Table of Contents](#table-of-contents)
     - [Introduction](#introduction)
     - [Hardware Requirements](#hardware-requirements)
     - [Software Specifications "Ubuntu 20.04"](#software-specifications-ubuntu-2004)
@@ -13,8 +12,6 @@
     - [Installing Libre Office](#installing-libre-office)
     - [Installing Discord](#installing-discord)
     - [Installing Zoom](#installing-zoom)
-    - [Installing Paython](#installing-paython)
-    - [Installing Epic Games and Emulator](#installing-epic-games-and-emulator)
     - [Ubuntu TroubleShooting](#ubuntu-troubleshooting)
     - [Work Cited](#work-cited)
 

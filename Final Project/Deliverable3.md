@@ -2,7 +2,45 @@
 
 
 ## Table of Content
-<!-- TOC -->autoauto- [Ubuntu Installation Handbook Dor Dummies](#ubuntu-installation-handbook-dor-dummies)auto    - [Table of Content](#table-of-content)auto    - [Introduction](#introduction)auto    - [Hardware Requirements](#hardware-requirements)auto    - [Software Specifications "Ubuntu 20.04"](#software-specifications-ubuntu-2004)auto    - [Set up of the VM Environment](#set-up-of-the-vm-environment)auto    - [Setting Virtual Box](#setting-virtual-box)auto    - [Basic Commands](#basic-commands)auto    - [Installing Google Chrome](#installing-google-chrome)auto    - [Install Team Viewer](#install-team-viewer)auto    - [Installing Libre Office](#installing-libre-office)auto    - [Installing Discord](#installing-discord)auto    - [Installing Zoom](#installing-zoom)auto    - [Ubuntu TroubleShooting](#ubuntu-troubleshooting)auto    - [Work Cited](#work-cited)autoauto<!-- /TOC -->
+- [Ubuntu Installation Handbook Dor Dummies](#ubuntu-installation-handbook-dor-dummies)
+  - [Table of Content](#table-of-content)
+  - [Introduction](#introduction)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Software Specifications "Ubuntu 20.04"](#software-specifications-ubuntu-2004)
+  - [Set up of the VM Environment](#set-up-of-the-vm-environment)
+    - [Installing Virtual Box](#installing-virtual-box)
+    - [Downloading Ubuntu 20.04](#downloading-ubuntu-2004)
+  - [Setting Virtual Box](#setting-virtual-box)
+    - [Step By Step](#step-by-step)
+      - [Step 1](#step-1)
+      - [Step 2](#step-2)
+      - [Step 3](#step-3)
+      - [Step 4](#step-4)
+      - [Step 5](#step-5)
+      - [Step 6](#step-6)
+      - [Step 9](#step-9)
+      - [Step 10](#step-10)
+      - [Step 11](#step-11)
+  - [Basic Commands](#basic-commands)
+  - [Installing Google Chrome](#installing-google-chrome)
+      - [Downloading Google Chrome](#downloading-google-chrome)
+      - [Installing Google Chrome](#installing-google-chrome-1)
+      - [Starting Chrome](#starting-chrome)
+  - [Install Team Viewer](#install-team-viewer)
+    - [Download TeamViewer on Ubuntu](#download-teamviewer-on-ubuntu)
+    - [Install TeamViewer](#install-teamviewer)
+    - [Starting TeamViewer](#starting-teamviewer)
+  - [Installing Libre Office](#installing-libre-office)
+  - [Installing Discord](#installing-discord)
+      - [Download Discord](#download-discord)
+      - [Installing Discord on the Command Line](#installing-discord-on-the-command-line)
+  - [Installing Zoom](#installing-zoom)
+      - [Download Zoom](#download-zoom)
+      - [Installing Zoom on the Command Line](#installing-zoom-on-the-command-line)
+  - [Ubuntu TroubleShooting](#ubuntu-troubleshooting)
+  - [Work Cited](#work-cited)
+
+
 
 ## Introduction
 
